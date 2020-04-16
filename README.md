@@ -6,6 +6,8 @@ The team involved in this project included Marcin Grzechowiak, Alex Cathey, Mych
 
 https://www.linkedin.com/in/mychael-solis-wheeler-829ab2b2/
 
+https://docs.google.com/document/d/1sTT1mEJ6mO0Apdvl_U5c9DL2I3ziMI_QtaArGCd9vHg/edit
+
 https://github.com/mikaelapisani/
 
 https://github.com/grzechowiak/
